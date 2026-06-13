@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+env/
+
+# Build / compile output
+*.exe
+*.obj
+*.o
+*.dll
+*.pdb
+*.ilk
+*.lib
+*.exp
+
+# Generated C (HolyC transpiler output)
+*.c
+
+# Bundled TinyCC — downloaded by install.ps1 (large third-party binaries)
+toolchain/tcc/
+toolchain/*.zip
+
+# Local scratch files
+mytest.*
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+Desktop.ini
+.DS_Store
