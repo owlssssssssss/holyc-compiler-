@@ -2,7 +2,7 @@
 
 A HolyC-flavored compiler for **Windows** that transpiles `.HC` source to C, then builds and runs native `.exe` files using a bundled [TinyCC](https://bellard.org/tcc/) toolchain.
 
-Inspired by [TempleOS HolyC](https://templeos.org/), but this project targets everyday Windows development: write HolyC-style code in Notepad (or any editor), run it like a script.
+Inspired by [TempleOS HolyC](https://templeos.org/), but this project targets everyday Windows development: write HolyC-style code in Notepad (or any editor), run it like a script.Compile code just as god intended.
 
 ```
 hcc myprogram.HC
